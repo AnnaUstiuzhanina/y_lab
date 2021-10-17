@@ -57,7 +57,7 @@ def check_gorizontal(field: list, symbol: str, length: int, vertical: int, goriz
 
 def check_vertical(field: list, symbol: str, length: int, vertical: int, gorizontal: int) -> bool:
     ''' 
-    Проверка проигрыша по горизонталям
+    Проверка проигрыша по вертикалям
 
     Аргументы:
         symbol - Х или О
